@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Julia
+# Hi 👋🏼 I'm Julia
 ## Aspiring Software Engineer from Vancouver, BC
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo2cGNlNXQxc2NocXo3OW84bm8wZmg0amo3OGw5OGE3N3BicWNlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgIc0lryrxvqVGM/giphy.gif">
 </div>
