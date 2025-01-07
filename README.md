@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋 I'm Julia
+
+## Aspiring Software Engineer from Vancouver, BC
 
 <!--
 **juliabbchv/juliabbchv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
