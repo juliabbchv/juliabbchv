@@ -20,19 +20,16 @@
 [![Web APIs](https://img.shields.io/badge/Web_APIs-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API)
 [![OAuth](https://img.shields.io/badge/OAuth-2A3750?style=for-the-badge&logo=keycloak&logoColor=white)](https://oauth.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
-[![Enzyme](https://img.shields.io/badge/Enzyme-323330?style=for-the-badge&logo=testinglibrary&logoColor=white)](https://enzymejs.github.io/enzyme/)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![WebPack](https://img.shields.io/badge/WebPack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org/)
 
 ### Things I'm passionate about
 
 🔗 Connecting people through technology
-<br>🤖 Anything cyberpunk
 <br>🤘🏼 Rock music
 <br>🎮 Gaming
 <br>😺 Cats
+<br>🤖 AI
 
 ### Let's connect
 <a href="https://www.linkedin.com/in/juliababicheva" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo" width="30"> </a>
